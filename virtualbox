@@ -1,0 +1,3 @@
+/sbin/vboxconfig      
+VBoxManage controlvm guestos setvideomodehint 1920 1200 32
+VBoxManage controlvm guestos setvideomodehint 1366 768 32 
